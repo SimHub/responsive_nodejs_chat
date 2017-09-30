@@ -2,7 +2,7 @@
 ---
 NodeJs Mongodb Socket.io Realtime chat  
 
- 
+
 ### Setup 
  Install <a href="https://nodejs.org/en/" alt="nodejs">Node js</a>  
   Read <a href="https://nodejs.org/en/docs/ ">docs</a>  
@@ -25,6 +25,15 @@ NodeJs Mongodb Socket.io Realtime chat
      $ node server.js  
      
 _Open your favourite browser at localhost:3000_   
+ 
+ 
+###DEMO 
+    $ cd Room_Example    
+    $ npm install
+    $ mongod  
+    $ node server.js   
+ 
+ _Open your favourite browser at localhost:3000_   
  
 ---  
 #### Desktop  
