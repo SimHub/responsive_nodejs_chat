@@ -19,7 +19,6 @@
     "type": "git",
     "url": "https://github.com/SimHub/responsive_nodejs_chat"
   },
-
   "engines": {
     "node": ">= 0.6.0",
     "npm": ">= 1.0.0"
@@ -27,13 +26,17 @@
   "dependencies": {
     "express": "^4.15.2",
     "mongodb": "^2.2.25",
-    "socket.io": "^1.7.3"
+    "socket.io": "^2.0.2",
+    "snyk": "^1.121.1"
   },
   "devDependencies": {},
   "bundleDependencies": [],
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "private": true,
-  "main": "server.js"
+  "main": "server.js",
+  "snyk": true
 }
