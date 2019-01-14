@@ -27,13 +27,10 @@ NodeJs Mongodb Socket.io Realtime chat
 _Open your favourite browser at localhost:3000_   
  
  
-### DEMO   
-    $ cd Room_Example    
-    $ npm install
-    $ mongod  
-    $ node server.js   
- 
- _Open your favourite browser at localhost:3000_   
+### DEMO -    
+
+"Room chat example" - [Go
+here!](https://github.com/SimHub/node_chat_room)
  
 ---  
 #### Desktop  
