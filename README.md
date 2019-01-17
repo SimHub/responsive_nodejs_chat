@@ -1,5 +1,7 @@
-#Realtime Chat with Node.js
----
+##Realtime Chat with Node.js
+---  
+[![Known Vulnerabilities](https://snyk.io/test/github/SimHub/responsive_nodejs_chat/badge.svg?targetFile=package.json)](https://snyk.io/test/github/SimHub/responsive_nodejs_chat?targetFile=package.json)  
+
 NodeJs Mongodb Socket.io Realtime chat  
 
 
