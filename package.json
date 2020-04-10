@@ -18,9 +18,9 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "mongodb": "~3.1.13",
-    "snyk": "^1.299.0",
-    "socket.io": "^2.0.2"
+    "mongodb": "~3.5.5",
+    "snyk": "^1.290.1",
+    "socket.io": "^2.3.0"
   },
   "devDependencies": {},
   "bundleDependencies": [],
