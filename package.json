@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "mongodb": "~3.1.13",
+    "mongodb": "~3.5.5",
     "snyk": "^1.290.1",
     "socket.io": "^2.3.0"
   },
