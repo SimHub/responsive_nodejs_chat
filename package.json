@@ -17,7 +17,7 @@
     "npm": ">= 3.3.12"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "mongodb": "~3.5.5",
     "snyk": "^1.290.1",
     "socket.io": "^2.3.0"
