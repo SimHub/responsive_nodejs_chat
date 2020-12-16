@@ -18,8 +18,8 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "mongodb": "~3.5.6",
-    "snyk": "^1.300.0",
+    "mongodb": "~3.5.5",
+    "snyk": "^1.437.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {},
