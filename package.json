@@ -19,7 +19,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongodb": "~3.6.3",
-    "snyk": "^1.300.0",
+    "snyk": "^1.431.1",
     "socket.io": "^2.3.0"
   },
   "devDependencies": {},
